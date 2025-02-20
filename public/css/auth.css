@@ -1,0 +1,29 @@
+.bank-logo{
+  margin-bottom: 20px;
+  color: #d8ae5e
+}
+
+.form-signin {
+  max-width: 330px;
+  padding: 1rem;
+  text-align: center;
+}
+
+.form-signin .form-floating:focus-within {
+  z-index: 2;
+}
+
+.form-signin input[type="email"],
+.form-signin input[type="password"] {
+  margin-bottom: 10px;
+  border-radius: 5px;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-color: #00214d; /* Optional: Light gray background */
+}
+
